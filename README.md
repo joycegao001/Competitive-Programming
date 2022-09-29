@@ -1,2 +1,17 @@
-# Competitive-Programming
-These are some competitive programming problems I have solved, on UVA and Kattis :)
+# **What is in this repository?**
+
+This repository contains my own solutions to competitive programming problems on UVA and Kattis; and of course some of these code still needs improvement in terms of its efficiency and complexity. Fortunately, they all received that "Accepted" verdict, so I think it may still contribute to the CP community to some extent :)
+
+# **A little description of my competitive programming journey**
+
+I have been learning C++ and doing competitive programming from September 2021 to June 2022, where I first finished learning a 40+ hours C++ course on Udemy, then began reading the book "Competitive Programming 4" by Steven Halim, and practiced its recommended questions while browsing through [https://visualgo.net/en](https://visualgo.net/en) for a visual explanation of these algorithms. I did this as my main goal back then was to perform well in the 2022 Australian Informatics Olympiad.
+
+However, sadly this plan didn’t go ahead, as my school wasn’t able to offer the AIO competition and I had difficulties finding an external provider where I could sit the exam at. As a result of this, I start to feel less motivated when solving CP problems; soon out of curiosity and peer influence, I began exploring other areas of programming, shifting my focus onto learning website development and participating in Hackathons instead, where I feel quite interested in building my web applications and working collaboratively with others.
+
+But in saying that, my 9 months dedicated to competitive programming & C++ have been an enjoyable and memorable journey that I couldn’t ask for with anything else. It has been a journey that gives me the motivation and courage to search for challenging questions every day and fully immerse myself into the scenario outlined by the question, and also developed my “growth mindset” where I view these challenges more as an opportunity to improve my abilities, rather than as something that I signed up to disappoint myself with how clueless I am when encoutering difficult questions for the first time.
+
+In my experience with CP, I would say these questions are similar to math questions in many aspects, such as the way we extract important information from the problem description and using mathematical & logical approaches to solve it; but for CP, it’s also interesting in how we can use technological tools to our advantage when coming up with solutions, such as using debugging tools to find where the error has occurred and manipulating the programming language to solve the problem most efficiently. I also love how these problems truly relate to real life, and that always motivates me to think further about what else I can do with the algorithm used in that problem, and perhaps apply it to the web application I am going to build one day :D
+
+In terms of achievements, I haven’t really achieved anything significant in this journey, with my best one probably being ranked as one of the top 50 Australian users on Kattis as of September 2022. But I have no regrets in pursuing this journey and dedicating my 9 months of free time to it, and I am hoping to come back to CP once I get into university whereby then, I will probably be starting to prepare for ICPC.
+
+**Please note, I haven't upload too many problems as majority of the easier problems I have done are stored in my old computer, which might not be retrieved easily**
